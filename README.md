@@ -9,8 +9,9 @@
 - Create a button that will toggle both lights.
     - Bonus points: Use a timer to automatically switch stoplights at 5 second intervals.
 - Use valid HTML and CSS.
+- Use React
 
 ## Bonus
 - add yellow and animate from green to red.
 - use LESS for your CSS
-- use Bootstrap (optional - Use gear icon in CSS panel to quick add Bootstrap)
+- use Bootstrap or other library (optional - Use gear icon in CSS panel to quick add Bootstrap)
